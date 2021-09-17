@@ -1,0 +1,15 @@
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\bin\Debug\net5.0\JWTDal.deps.json
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\bin\Debug\net5.0\JWTDal.dll
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\bin\Debug\net5.0\ref\JWTDal.dll
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\bin\Debug\net5.0\JWTDal.pdb
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\bin\Debug\net5.0\ADOLibrary.dll
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\bin\Debug\net5.0\ADOLibrary.pdb
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\obj\Debug\net5.0\JWTDal.csproj.AssemblyReference.cache
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\obj\Debug\net5.0\JWTDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\obj\Debug\net5.0\JWTDal.AssemblyInfoInputs.cache
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\obj\Debug\net5.0\JWTDal.AssemblyInfo.cs
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\obj\Debug\net5.0\JWTDal.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\obj\Debug\net5.0\JWTDal.csproj.CopyComplete
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\obj\Debug\net5.0\JWTDal.dll
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\obj\Debug\net5.0\ref\JWTDal.dll
+C:\Users\Steve\source\repos\DemoSecurite\JWTDal\obj\Debug\net5.0\JWTDal.pdb

@@ -1,0 +1,10 @@
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\bin\Debug\AppUserDatabase.dacpac
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\bin\Debug\AppUserDatabase.dll
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\bin\Debug\AppUserDatabase.pdb
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\obj\Debug\AppUserDatabase.sqlproj.AssemblyReference.cache
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\obj\Debug\Model.xml
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\obj\Debug\refactor.xml
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\obj\Debug\postdeploy.sql
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\obj\Debug\predeploy.sql
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\obj\Debug\AppUserDatabase.dll
+C:\Users\Steve\source\repos\DemoSecurite\AppUserDatabase\obj\Debug\AppUserDatabase.pdb
